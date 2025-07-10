@@ -2,6 +2,7 @@
 
 This project presents a **real-time fraud monitoring dashboard** designed to detect and visualize suspicious transaction patterns using PayPal-style data. The solution combines **Excel**, **SQL**, and **Power BI** to uncover fraud trends across device types, countries, time periods, and merchants.
 
+![PayPal Fraud Monitoring Dashboard]
 ---
 
 ## 📌 Dashboard Name
